@@ -7,7 +7,7 @@ import './index.scss';
 ReactDOM.render(
     <div>
     	<i className = "fa fa-address-book"></i>
-    	<h3>比好呀</h3>
+    	<h3>你好呀</h3>
     </div>,
     document.getElementById('app')
 );
